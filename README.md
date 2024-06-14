@@ -86,8 +86,22 @@ Top10FlightsPerCountry =
         BLANK()
     )
 ```
+And convey the output in the clustered bar chart as shown below. 
 
 ![Screenshot](CaptureExample.PNG)
 
-
 ### Recommendations
+
+Overall, from the overview page, it is clear that most passengers wouldn't recommend their flight for several reasons:
+- They found the seat uncomfortable.
+- They were displeased with the cabin staff, the food served, and/or the ground service.
+- They were dissatisfied with the Wi-Fi on board and/or the inflight entertainment.
+- They didn't think the flight was good value for money.
+
+A deeper analysis of passenger ratings by continent reveals that most passengers wouldn't recommend their flight to loved ones. On average, most travellers were couples, except for those departing from Asia, where most travellers were solo.
+
+It would have been beneficial to further explore the age groups of travellers to determine which age groups were most dissatisfied and if they were frequent flyers on their chosen airlines. Unfortunately, the dataset did not provide such information.
+
+Access to more detailed data would have allowed for an analysis of the age groups of frequent flyers and the audience within each traveller type. For internal use, this could have helped the marketing department identify the best times to announce promotional offers for different types of travellers and age groups. Additionally, more information could have provided deeper insight into whether travellers continued to use the same airline and if their ratings were based on a holistic experience or their most recent flight.
+
+It is advisable for airlines to continuously seek new and improved ways to enhance their service through in-person and remote training for all customer-facing staff. This ensures that airlines are doing all they can to provide passengers with a valuable experience that they would recommend to others.
