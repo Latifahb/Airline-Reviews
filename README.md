@@ -4,6 +4,8 @@
 
 The Airlines Reviews and Ratings dataset is a comprehensive collection of passenger feedback on various aspects of their flight experiences with different airlines. It provides insights into passenger satisfaction and service quality, offering valuable data for analysis in the travel and hospitality industry, improving customer service, and predicting customer satisfaction. This dataset is designed to explore the many facets of air travel experiences globally, including data on aircraft types, user reviews, and detailed service ratings, providing a unique perspective for analysing and predicting airline performance from the passenger's viewpoint.
 
+[Airline Dashboard Linked Here](https://app.powerbi.com/view?r=eyJrIjoiMGM2MWRiYzctNzMxOC00Njk5LTg4NmQtZWM4ODQwM2E3ZjNjIiwidCI6IjAzNzUxNDY2LTM4YzItNDFmYi1iOTgwLTFhMjE2Zjc5YjU0MyJ9)
+
 ### Steps Followed
 
 Step 1: Converted the CSV file to XLSX.
