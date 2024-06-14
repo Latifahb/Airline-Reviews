@@ -33,7 +33,9 @@ Step 3: Visualisation
   (a) Total Number of Passengers who left a review
   
   (b) Average Flights per Year
+  
   (c) Average Flights per Month
+  
 For (b) and (c), I developed a new measure to facilitate the creation of these cards.
 
 To calculate the average overall rating for each service in the dataset, I initially imported a star ratings visual, which did not integrate well with the dataset. Therefore, I used a card visual and modified it to display stars, grouping all the ratings together. To compute the average, I created a DAX function for all relevant ratings. An example is as follows:
